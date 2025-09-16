@@ -1,0 +1,13 @@
+.rafay-heading{
+    text-align: center;
+    color: red;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-decoration: underline;
+    
+    text-decoration-thickness: 3px;
+}
